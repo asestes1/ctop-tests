@@ -1,0 +1,6 @@
+RTC Distribution: Triangular, {'c': 0.2, 'loc': 0, 'scale': 5400}
+RTC Distribution: Weight, {'c': 0.25, 'loc': 0, 'scale': 2}
+Slots per hour: 30
+Airline Cheats: True
+Postswap: False
+Seed: 1
